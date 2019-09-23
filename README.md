@@ -1,3 +1,7 @@
+## Alert
+
+Created test_only.py to run only evaluation.
+
 ## Mixture Content Selection for Diverse Sequence Generation
 
 * Authors: [Jaemin Cho](https://j-min.io), [Minjoon Seo](https://seominjoon.github.io), [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/)
